@@ -1,0 +1,10 @@
+{
+  "simulation": "com.amdocs.foundation.tracing.simulations.HttpClients",
+  "simulationId": "httpclients-20230814222417406",
+  "start": 1692051858555,
+  "description": "",
+  "scenarios": ["apigw"],
+  "assertions": [
+
+  ]
+}
